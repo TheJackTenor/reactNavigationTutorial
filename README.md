@@ -9,5 +9,7 @@ To build and run this project, execute this following command
 ```
 react-native start
 react-native run-android
+// or
+react-native run-ios
 ```
 Thank You :)
